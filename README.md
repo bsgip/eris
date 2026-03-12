@@ -2,11 +2,11 @@
 
 Eris is a collection of multi-commodity energy modelling tools.
 
-This repo contains the source for a documentation site, serving as a landing page for Eris and linking through to the individual tools and libraries that make up Eris suite.
+This repo contains the source for a documentation site, serving as a landing page for Eris and linking through to the individual tools and libraries that make up the Eris suite.
 
 ---
 
-**Documentation**: [https://bsgip.github.io/eris](https://bsgip.github.io/eris)
+**Hosted at**: [https://bsgip.github.io/eris](https://bsgip.github.io/eris)
 
 ---
 
