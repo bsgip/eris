@@ -1,4 +1,4 @@
-# Eris
+![Eris](docs/assets/images/eris.png)
 
 Eris is a collection of multi-commodity energy modelling tools.
 
